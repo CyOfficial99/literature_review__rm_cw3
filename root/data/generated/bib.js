@@ -1,4 +1,4 @@
-﻿define({ entries : {
+﻿const generatedBibEntries = {
     "an2024vitality2reviewingacademic": {
         "archiveprefix": "arXiv",
         "author": "Hongye An and Arpit Narechania and Emily Wall and Kai Xu",
@@ -21,19 +21,6 @@
         "url": "https://doi.org/10.1111/j.1467-8659.2011.01921.x",
         "volume": "30",
         "year": "2011"
-    },
-    "delgadochaves2025": {
-        "author": "Delgado-Chaves, Fernando M. and Jennings, Matthew J. and Atalaia, Ant\u00f3nio and Wolff, Justus and Horv\u00e1th, Rita and Mamdouh, Zeinab M. and Baumbach, Jan and Baumbach, Linda",
-        "doi": "10.1073/pnas.2411962122",
-        "journal": "Proceedings of the National Academy of Sciences",
-        "month": "jan,",
-        "number": "2",
-        "pages": "e2411962122",
-        "title": "Transforming literature screening: The emerging role of large language models in systematic reviews",
-        "type": "article",
-        "url": "https://www.pnas.org/doi/pdf/10.1073/pnas.2411962122",
-        "volume": "122",
-        "year": "2025"
     },
     "elarini2011": {
         "author": "El-Arini, Khalid and Guestrin, Carlos",
@@ -78,6 +65,16 @@
         "url": "https://arxiv.org/abs/2406.10252",
         "year": "2024"
     },
+    "wu2022aichainstransparentcontrollable": {
+        "archiveprefix": "arXiv",
+        "author": "Tongshuang Wu and Michael Terry and Carrie J. Cai",
+        "eprint": "2110.01691",
+        "primaryclass": "cs.HC",
+        "title": "AI Chains: Transparent and Controllable Human-AI Interaction by Chaining Large Language Model Prompts",
+        "type": "misc",
+        "url": "https://arxiv.org/abs/2110.01691",
+        "year": "2022"
+    },
     "xie2026awesomelithypothesisgenerationagentsupported": {
         "archiveprefix": "arXiv",
         "author": "Zefei Xie and Yuhan Guo and Kai Xu",
@@ -98,4 +95,4 @@
         "url": "https://arxiv.org/abs/2310.01469",
         "year": "2024"
     }
-}});
+};
