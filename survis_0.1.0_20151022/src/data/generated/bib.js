@@ -1,4 +1,4 @@
-﻿define({ entries : {
+﻿const generatedBibEntries = {
     "an2024vitality2reviewingacademic": {
         "archiveprefix": "arXiv",
         "author": "Hongye An and Arpit Narechania and Emily Wall and Kai Xu",
@@ -95,4 +95,4 @@
         "url": "https://arxiv.org/abs/2310.01469",
         "year": "2024"
     }
-}});
+};
